@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactapp-catFact/static/css/main.27a0f019.css",
+    "main.js": "/reactapp-catFact/static/js/main.ac0c169c.js",
+    "index.html": "/reactapp-catFact/index.html",
+    "main.27a0f019.css.map": "/reactapp-catFact/static/css/main.27a0f019.css.map",
+    "main.ac0c169c.js.map": "/reactapp-catFact/static/js/main.ac0c169c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27a0f019.css",
+    "static/js/main.ac0c169c.js"
+  ]
+}
