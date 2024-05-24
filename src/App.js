@@ -12,7 +12,7 @@ function App() {
     fetchData()
   },[])
   return (
-    <div className="flex flex-col min-h-screen justify-center items-center">
+    <div className="flex flex-col gap-10 min-h-screen justify-center items-center">
       
       <button onClick={fetchData} className="flex bg-orange-500 rounded-md text-black px-5 py-4">Generate Cat Fact</button>
       <h1 className="text-2xl">{catFact}</h1>
